@@ -20,3 +20,6 @@ This process was iterated for each of the 12 links. It can be done for thousands
 
 #### Target
 Autoutomating this process to extract the data from each link and populate spreadsheet with those 7 fields.
+
+#### Tools used
+Python libraries: Requests, BeautifulSoup, Fitz, Panadas
