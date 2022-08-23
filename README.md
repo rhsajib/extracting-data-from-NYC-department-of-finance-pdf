@@ -5,8 +5,11 @@
 This project contains an Excel spreadsheet with links to website in the following form:
 
 https://a836-edms.nyc.gov/dctm-rest/repositories/dofedmspts/StatementSearch?bbl=4082890044&stmtDate=20210227&stmtType=SOA
+
 https://a836-edms.nyc.gov/dctm-rest/repositories/dofedmspts/StatementSearch?bbl=4023080027&stmtDate=20210227&stmtType=SOA
+
 https://a836-edms.nyc.gov/dctm-rest/repositories/dofedmspts/StatementSearch?bbl=3027491001&stmtDate=20210227&stmtType=SOA
+
 https://a836-edms.nyc.gov/dctm-rest/repositories/dofedmspts/StatementSearch?bbl=4101220018&stmtDate=20210227&stmtType=SOA
 
 Each link is to take to a pdf file. For example, the first link will take to a web page with the following, where required seven fields are labeled with red numbers:
